@@ -1,5 +1,5 @@
 # Calidad-del-Aire-con-Firebase
-Este Repositorio es un complemento a para [el dispositivo IoT de "Calidad del Aire"](https://github.com/UlisesGascon/Aire-Madrid) y que utiliza Firebase para transmitir y almacenar los datos
+Este Repositorio es un complemento a para [el dispositivo IoT de "Calidad del Aire"](https://github.com/UlisesGascon/Calidad-del-Aire) y que utiliza Firebase para transmitir y almacenar los datos
 
 ### [DEMO](https://calidaddelaire.firebaseio.com/)
 
