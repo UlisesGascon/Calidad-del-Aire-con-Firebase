@@ -23,7 +23,7 @@ Los datos son recolectados por Node.js usando la librería serialport y subidos 
 ```
 npm install
 ```  
-3 - Ejecuta el script
+3 - Ejecuta el script para saber los puertos disponibles
 ```
 node server
 ```
