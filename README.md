@@ -18,16 +18,16 @@ Los datos son recolectados por Node.js usando la librería serialport y subidos 
 
 **Parte del servidor**
 
-1. Actualiza la el archivo *[config.js](https://github.com/UlisesGascon/Calidad-del-Aire-con-Firebase/blob/master/server/config.js)* con tus datos
-2. Instala las dependencias de Nodejs.
+1 - Actualiza la el archivo *[config.js](https://github.com/UlisesGascon/Calidad-del-Aire-con-Firebase/blob/master/server/config.js)* con tus datos
+2 - Instala las dependencias de Nodejs.
 ```
 npm install
 ```  
-3. Ejecuta el script
+3 - Ejecuta el script
 ```
 node server
 ```
-4. Ejecuta el script con el puerto como parámetro y empezará la subida de datos
+4 - Ejecuta el script con el puerto como parámetro y empezará la subida de datos
 ```
 node server /dev/cu.usbmodem1411
 ```
