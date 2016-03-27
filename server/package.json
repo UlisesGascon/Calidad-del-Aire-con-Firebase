@@ -1,0 +1,15 @@
+{
+  "name": "Calidad-del-Aire-con-Firebase",
+  "version": "1.0.0",
+  "description": "Usando Firebase para guardar y representar los datos del dispositivo IoT - Calidad del Aire",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulises Gascón",
+  "license": "GPLv3",
+  "dependencies": {
+    "firebase": "^2.4.1",
+    "serialport": "^2.0.6"
+  }
+}
