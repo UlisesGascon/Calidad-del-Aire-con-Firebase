@@ -1,3 +1,8 @@
+![shieldsIO](https://img.shields.io/github/issues/UlisesGascon/Calidad-del-Aire-con-Firebase.svg)
+![shieldsIO](https://img.shields.io/github/release/UlisesGascon/Calidad-del-Aire-con-Firebase.svg)
+![shieldsIO](https://img.shields.io/UlisesGascon/Calidad-del-Aire-con-Firebase.svg)
+![shieldsIO](https://img.shields.io/david/UlisesGascon/Calidad-del-Aire-con-Firebase.svg)
+
 # Calidad-del-Aire-con-Firebase
 Este Repositorio es un complemento a para [el dispositivo IoT de "Calidad del Aire"](https://github.com/UlisesGascon/Aire-Madrid) y que utiliza Firebase para transmitir y almacenar los datos
 
